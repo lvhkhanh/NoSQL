@@ -1,4 +1,11 @@
 # NoSQL
+## Full Text Search
+### https://docs.oracle.com/en/database/other-databases/nosql-database/18.1/full-text-search/index.html#NSFTL-GUID-560D1069-AB91-424A-9BE2-A3489270413C
+### https://medium.com/dev-channel/how-to-add-full-text-search-to-your-website-4e9c80ce2bf4
+### https://blog.couchbase.com/full-text-search-key-better-natural-language-queries-nosql-node-js/
+### https://code.tutsplus.com/tutorials/full-text-search-in-mongodb--cms-24835
+### https://ravendb.net/features/querying/full-text-search
+### https://www.elastic.co/blog/no-sql-yes-search/
 ## Ebooks
 ### https://www.syncfusion.com/ebooks/mongodb_3_succinctly
 ### https://www.syncfusion.com/ebooks/azure_cosmos_db_and_documentdb_succinctly
