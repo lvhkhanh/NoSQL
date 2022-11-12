@@ -1,4 +1,6 @@
 # NoSQL
+## Certificates
+- [x] NoSQL Concepts https://www.datacamp.com/statement-of-accomplishment/course/ecbafaf4b18b64d6ac4c3bdcf8447b237f54c369
 ## Full Text Search
 ### https://docs.oracle.com/en/database/other-databases/nosql-database/18.1/full-text-search/index.html#NSFTL-GUID-560D1069-AB91-424A-9BE2-A3489270413C
 ### https://medium.com/dev-channel/how-to-add-full-text-search-to-your-website-4e9c80ce2bf4
